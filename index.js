@@ -14,8 +14,6 @@ var globalPickResult = {
     }
 };
 
-var inputAttributes = ['workspace', 'name', 'notes'];
-
 module.exports = {
     /**
      * Return pick result.
